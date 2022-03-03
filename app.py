@@ -1,2 +1,2 @@
-print('Welcome to Class')
+print('WELCOME to Class')
 print('Hope you learn something')
